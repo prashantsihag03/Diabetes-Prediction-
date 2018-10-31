@@ -1,2 +1,2 @@
 # Diabetes-Prediction-
-Predicting diabetes using logistic algorithm in python
+Predicting diabetes using logistic regression in python
