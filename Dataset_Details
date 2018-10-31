@@ -1,0 +1,5 @@
+Diabetes.csv is the dataset.
+
+Independent Variables are pregnancies, bmi, glucose, blood pressure, skin thickness, insulin and diabetes pedigree function values.
+
+Dependent Variable is Outcome where 1 indicates Yes and 0 indicates no for diabetes.
