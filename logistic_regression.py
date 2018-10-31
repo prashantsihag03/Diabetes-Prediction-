@@ -41,4 +41,4 @@ accuracy_denominator = np.add(true_pred, false_pred)
 accuracy_division = np.divide(true_pred, accuracy_denominator)
 final_accuracy = np.multiply(accuracy_division, 100)
 
-print(final_accuracy)
+print("Accuracy in percentage is: ", final_accuracy,"%")
