@@ -1,5 +1,7 @@
-Diabetes.csv is the dataset.
+Diabetes.csv is a Pima Indians Diabetes dataset downloaded from https://www.kaggle.com/uciml/pima-indians-diabetes-database .
 
-Independent Variables are pregnancies, bmi, glucose, blood pressure, skin thickness, insulin and diabetes pedigree function values.
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
-Dependent Variable is Outcome where 1 indicates Yes and 0 indicates no for diabetes.
+The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. 
+Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+
